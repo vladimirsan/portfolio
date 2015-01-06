@@ -1,0 +1,5 @@
+#ignoramos los archivos ya compilados
+*.[oa]
+*.h~
+*.cpp~
+tests
