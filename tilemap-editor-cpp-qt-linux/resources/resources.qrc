@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>addTiles.png</file>
+        <file>addMap.png</file>
+        <file>save.png</file>
+        <file>config.png</file>
+        <file>onion.png</file>
+        <file>mainFolder.png</file>
+        <file>eraser.png</file>
+        <file>paintcan.png</file>
+        <file>pencil.png</file>
+        <file>mapProperties.png</file>
+        <file>information.png</file>
+        <file>magicEraser.png</file>
+        <file>addNPC.png</file>
+        <file>cursor.png</file>
+        <file>removeNPC.png</file>
+    </qresource>
+    <qresource prefix="/cursors">
+        <file>paintCanCursor.png</file>
+        <file>eraserCursor.png</file>
+        <file>informationCursor.png</file>
+        <file>pencilCursor.png</file>
+        <file>magicEraserCursor.png</file>
+    </qresource>
+    <qresource prefix="/gui">
+        <file>npc.png</file>
+    </qresource>
+</RCC>
