@@ -1,0 +1,28 @@
+Personal Project , Winter, Spring and Summer 2013
+
+# Summary:
+
+Since my C++ formal education didn't include graphical user interface development, 
+I decided to learn and practice the Qt UI library in conjunction with C++. 
+One of my main objectives was to attempt a non-trivial project that forced me to learn 
+and understand the intricacies of complex C++ UI programming. I decided to develop a simple tile-map editor.
+
+# Project Highlights:
+
+    GTest Test Driven Development Library
+    Defensive Programming
+        Assertion Usage
+    Refactoring Phases
+    MVC Design Pattern
+    Sqlite database integration
+
+#Development Environment:
+
+    Ubuntu 12.4
+    Qt Creator
+    Google Test (Test Driven Development)
+    C++
+
+# Build Instructions
+
+The project can be compiled by loading the .pro files into Qt Creator (Created and tested in version 3.0.1) 

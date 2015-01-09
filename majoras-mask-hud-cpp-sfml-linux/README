@@ -1,0 +1,29 @@
+Personal Project, Winter 2011
+
+#Summary:
+
+After studying C++ with the book "Thinking in C++", I decided to work on a project that would help me put in practice all I've learned.  
+At that time, I had just finished playing The Legend of Zelda: Majora's Mask, and I thought it would be challenging to simulate 
+the mathematics and algorithms the in-game clock showcased.
+
+#Project Highlights:
+
+I used this project in order to practice several technologies and development strategies I had been learning on my own and couldn't properly practice:
+
+    Test Driven Development (Using CXX TEST)
+    MVC Design Pattern
+    Vim Tex Editor
+
+All of the previous items were self-taught.
+
+#Development Environment:
+
+    Ubuntu 10.10
+    SFML 1.6
+    G++ Compiler with Makefiles
+    C++
+
+#Build Instructions
+
+The included makefile contains rules for building the main application and for building the unit testing code, however, 
+it is important to link the SFML version 1.6 and to install all its pre-requisites. 
