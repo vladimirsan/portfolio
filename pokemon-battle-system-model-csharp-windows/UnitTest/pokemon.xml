@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<table_data name="pokemon">
+	<row>
+		<field name="id">10</field>
+		<field name="name">Caterpie</field>
+		<field name="baseHp">45</field>
+		<field name="baseAttack">30</field>
+		<field name="baseDefense">35</field>
+		<field name="baseSpeed">45</field>
+		<field name="baseSpecial">20</field>
+		<field name="baseExperience">53</field>
+		<field name="typeId1">11</field>
+		<field name="tipeId2">0</field>
+	</row>
+	<row>
+		<field name="id">11</field>
+		<field name="name">Metapod</field>
+		<field name="baseHp">50</field>
+		<field name="baseAttack">20</field>
+		<field name="baseDefense">55</field>
+		<field name="baseSpeed">30</field>
+		<field name="baseSpecial">25</field>
+		<field name="baseExperience">72</field>
+		<field name="typeId1">11</field>
+		<field name="tipeId2">0</field>
+	</row>
+	<row>
+		<field name="id">13</field>
+		<field name="name">Weedle</field>
+		<field name="baseHp">45</field>
+		<field name="baseAttack">35</field>
+		<field name="baseDefense">30</field>
+		<field name="baseSpeed">50</field>
+		<field name="baseSpecial">20</field>
+		<field name="baseExperience">52</field>
+		<field name="typeId1">11</field>
+		<field name="tipeId2">0</field>
+	</row>
+	<row>
+		<field name="id">14</field>
+		<field name="name">Kakuna</field>
+		<field name="baseHp">45</field>
+		<field name="baseAttack">25</field>
+		<field name="baseDefense">50</field>
+		<field name="baseSpeed">35</field>
+		<field name="baseSpecial">25</field>
+		<field name="baseExperience">71</field>
+		<field name="typeId1">11</field>
+		<field name="tipeId2">0</field>
+	</row>
+	<row>
+		<field name="id">15</field>
+		<field name="name">Beedril</field>
+		<field name="baseHp">65</field>
+		<field name="baseAttack">80</field>
+		<field name="baseDefense">40</field>
+		<field name="baseSpeed">75</field>
+		<field name="baseSpecial">45</field>
+		<field name="baseExperience">159</field>
+		<field name="typeId1">11</field>
+		<field name="tipeId2">7</field>
+	</row>
+	<row>
+		<field name="id">16</field>
+		<field name="name">Pidgey</field>
+		<field name="baseHp">40</field>
+		<field name="baseAttack">45</field>
+		<field name="baseDefense">40</field>
+		<field name="baseSpeed">56</field>
+		<field name="baseSpecial">35</field>
+		<field name="baseExperience">55</field>
+		<field name="typeId1">1</field>
+		<field name="tipeId2">10</field>
+	</row>
+	<row>
+		<field name="id">17</field>
+		<field name="name">Pidgeotto</field>
+		<field name="baseHp">63</field>
+		<field name="baseAttack">60</field>
+		<field name="baseDefense">55</field>
+		<field name="baseSpeed">71</field>
+		<field name="baseSpecial">50</field>
+		<field name="baseExperience">113</field>
+		<field name="typeId1">1</field>
+		<field name="tipeId2">10</field>
+	</row>
+	<row>
+		<field name="id">19</field>
+		<field name="name">Rattata</field>
+		<field name="baseHp">30</field>
+		<field name="baseAttack">56</field>
+		<field name="baseDefense">35</field>
+		<field name="baseSpeed">72</field>
+		<field name="baseSpecial">25</field>
+		<field name="baseExperience">57</field>
+		<field name="typeId1">1</field>
+		<field name="tipeId2">0</field>
+	</row>
+	<row>
+		<field name="id">21</field>
+		<field name="name">Spearow</field>
+		<field name="baseHp">40</field>
+		<field name="baseAttack">60</field>
+		<field name="baseDefense">30</field>
+		<field name="baseSpeed">70</field>
+		<field name="baseSpecial">31</field>
+		<field name="baseExperience">58</field>
+		<field name="typeId1">1</field>
+		<field name="tipeId2">10</field>
+	</row>
+	<row>
+		<field name="id">23</field>
+		<field name="name">Ekans</field>
+		<field name="baseHp">35</field>
+		<field name="baseAttack">30</field>
+		<field name="baseDefense">44</field>
+		<field name="baseSpeed">55</field>
+		<field name="baseSpecial">40</field>
+		<field name="baseExperience">62</field>
+		<field name="typeId1">7</field>
+		<field name="tipeId2">0</field>
+	</row>
+	<row>
+		<field name="id">25</field>
+		<field name="name">Pikachu</field>
+		<field name="baseHp">35</field>
+		<field name="baseAttack">55</field>
+		<field name="baseDefense">30</field>
+		<field name="baseSpeed">90</field>
+		<field name="baseSpecial">50</field>
+		<field name="baseExperience">82</field>
+		<field name="typeId1">6</field>
+		<field name="tipeId2">0</field>
+	</row>
+	<row>
+		<field name="id">52</field>
+		<field name="name">Meowth</field>
+		<field name="baseHp">40</field>
+		<field name="baseAttack">45</field>
+		<field name="baseDefense">35</field>
+		<field name="baseSpeed">90</field>
+		<field name="baseSpecial">40</field>
+		<field name="baseExperience">69</field>
+		<field name="typeId1">1</field>
+		<field name="tipeId2">0</field>
+	</row>
+	<row>
+		<field name="id">56</field>
+		<field name="name">Mankey</field>
+		<field name="baseHp">40</field>
+		<field name="baseAttack">80</field>
+		<field name="baseDefense">35</field>
+		<field name="baseSpeed">70</field>
+		<field name="baseSpecial">35</field>
+		<field name="baseExperience">74</field>
+		<field name="typeId1">9</field>
+		<field name="tipeId2">0</field>
+	</row>
+	<row>
+		<field name="id">109</field>
+		<field name="name">Koffing</field>
+		<field name="baseHp">40</field>
+		<field name="baseAttack">65</field>
+		<field name="baseDefense">95</field>
+		<field name="baseSpeed">35</field>
+		<field name="baseSpecial">60</field>
+		<field name="baseExperience">114</field>
+		<field name="typeId1">7</field>
+		<field name="tipeId2">0</field>
+	</row>
+</table_data>

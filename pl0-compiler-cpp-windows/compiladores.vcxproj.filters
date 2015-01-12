@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="lexicoGrafico">
+      <UniqueIdentifier>{999f0025-8e51-450f-aa02-b58312566e08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="sintactico">
+      <UniqueIdentifier>{f9bf80ef-1f0a-486f-a6a2-5589c05aa94d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="lexicoGrafico\Globales.h">
+      <Filter>lexicoGrafico</Filter>
+    </ClInclude>
+    <ClInclude Include="lexicoGrafico\LectorArchivos.h">
+      <Filter>lexicoGrafico</Filter>
+    </ClInclude>
+    <ClInclude Include="lexicoGrafico\Tokenizador.h">
+      <Filter>lexicoGrafico</Filter>
+    </ClInclude>
+    <ClInclude Include="lexicoGrafico\Lexico.h">
+      <Filter>lexicoGrafico</Filter>
+    </ClInclude>
+    <ClInclude Include="sintactico\TablaDeSimbolos.h">
+      <Filter>sintactico</Filter>
+    </ClInclude>
+    <ClInclude Include="sintactico\Parser.h">
+      <Filter>sintactico</Filter>
+    </ClInclude>
+    <ClInclude Include="sintactico\NotificadorError.h">
+      <Filter>sintactico</Filter>
+    </ClInclude>
+    <ClInclude Include="sintactico\Simbolo.h">
+      <Filter>sintactico</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="compilador.cpp" />
+    <ClCompile Include="lexicoGrafico\LectorArchivos.cpp">
+      <Filter>lexicoGrafico</Filter>
+    </ClCompile>
+    <ClCompile Include="lexicoGrafico\Tokenizador.cpp">
+      <Filter>lexicoGrafico</Filter>
+    </ClCompile>
+    <ClCompile Include="lexicoGrafico\Lexico.cpp">
+      <Filter>lexicoGrafico</Filter>
+    </ClCompile>
+    <ClCompile Include="sintactico\TablaDeSimbolos.cpp">
+      <Filter>sintactico</Filter>
+    </ClCompile>
+    <ClCompile Include="sintactico\Parser.cpp">
+      <Filter>sintactico</Filter>
+    </ClCompile>
+    <ClCompile Include="sintactico\NotificadorError.cpp">
+      <Filter>sintactico</Filter>
+    </ClCompile>
+    <ClCompile Include="lexicoGrafico\Globales.cpp">
+      <Filter>lexicoGrafico</Filter>
+    </ClCompile>
+    <ClCompile Include="sintactico\Simbolo.cpp">
+      <Filter>sintactico</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

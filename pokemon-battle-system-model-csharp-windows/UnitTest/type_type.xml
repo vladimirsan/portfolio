@@ -1,0 +1,255 @@
+<?xml version="1.0"?>
+<table_data name="type_type">
+	<row>
+		<field name="id">3</field>
+		<field name="typeIdA">3</field>
+		<field name="typeIdD">3</field>
+		<field name="multiplier">0.50</field>
+	</row>
+	<row>
+		<field name="id">4</field>
+		<field name="typeIdA">3</field>
+		<field name="typeIdD">6</field>
+		<field name="multiplier">1.00</field>
+	</row>
+	<row>
+		<field name="id">5</field>
+		<field name="typeIdA">3</field>
+		<field name="typeIdD">7</field>
+		<field name="multiplier">0.50</field>
+	</row>
+	<row>
+		<field name="id">6</field>
+		<field name="typeIdA">3</field>
+		<field name="typeIdD">9</field>
+		<field name="multiplier">1.00</field>
+	</row>
+	<row>
+		<field name="id">7</field>
+		<field name="typeIdA">3</field>
+		<field name="typeIdD">10</field>
+		<field name="multiplier">0.50</field>
+	</row>
+	<row>
+		<field name="id">8</field>
+		<field name="typeIdA">3</field>
+		<field name="typeIdD">11</field>
+		<field name="multiplier">0.50</field>
+	</row>
+	<row>
+		<field name="id">9</field>
+		<field name="typeIdA">6</field>
+		<field name="typeIdD">1</field>
+		<field name="multiplier">1.00</field>
+	</row>
+	<row>
+		<field name="id">10</field>
+		<field name="typeIdA">6</field>
+		<field name="typeIdD">3</field>
+		<field name="multiplier">0.50</field>
+	</row>
+	<row>
+		<field name="id">11</field>
+		<field name="typeIdA">6</field>
+		<field name="typeIdD">6</field>
+		<field name="multiplier">0.50</field>
+	</row>
+	<row>
+		<field name="id">12</field>
+		<field name="typeIdA">6</field>
+		<field name="typeIdD">7</field>
+		<field name="multiplier">1.00</field>
+	</row>
+	<row>
+		<field name="id">13</field>
+		<field name="typeIdA">6</field>
+		<field name="typeIdD">9</field>
+		<field name="multiplier">1.00</field>
+	</row>
+	<row>
+		<field name="id">14</field>
+		<field name="typeIdA">6</field>
+		<field name="typeIdD">10</field>
+		<field name="multiplier">2.00</field>
+	</row>
+	<row>
+		<field name="id">15</field>
+		<field name="typeIdA">6</field>
+		<field name="typeIdD">11</field>
+		<field name="multiplier">1.00</field>
+	</row>
+	<row>
+		<field name="id">16</field>
+		<field name="typeIdA">7</field>
+		<field name="typeIdD">1</field>
+		<field name="multiplier">1.00</field>
+	</row>
+	<row>
+		<field name="id">17</field>
+		<field name="typeIdA">7</field>
+		<field name="typeIdD">3</field>
+		<field name="multiplier">2.00</field>
+	</row>
+	<row>
+		<field name="id">18</field>
+		<field name="typeIdA">7</field>
+		<field name="typeIdD">6</field>
+		<field name="multiplier">1.00</field>
+	</row>
+	<row>
+		<field name="id">19</field>
+		<field name="typeIdA">7</field>
+		<field name="typeIdD">7</field>
+		<field name="multiplier">0.50</field>
+	</row>
+	<row>
+		<field name="id">20</field>
+		<field name="typeIdA">7</field>
+		<field name="typeIdD">9</field>
+		<field name="multiplier">1.00</field>
+	</row>
+	<row>
+		<field name="id">21</field>
+		<field name="typeIdA">7</field>
+		<field name="typeIdD">10</field>
+		<field name="multiplier">1.00</field>
+	</row>
+	<row>
+		<field name="id">22</field>
+		<field name="typeIdA">7</field>
+		<field name="typeIdD">11</field>
+		<field name="multiplier">2.00</field>
+	</row>
+	<row>
+		<field name="id">23</field>
+		<field name="typeIdA">9</field>
+		<field name="typeIdD">1</field>
+		<field name="multiplier">2.00</field>
+	</row>
+	<row>
+		<field name="id">24</field>
+		<field name="typeIdA">9</field>
+		<field name="typeIdD">3</field>
+		<field name="multiplier">1.00</field>
+	</row>
+	<row>
+		<field name="id">25</field>
+		<field name="typeIdA">9</field>
+		<field name="typeIdD">6</field>
+		<field name="multiplier">1.00</field>
+	</row>
+	<row>
+		<field name="id">26</field>
+		<field name="typeIdA">9</field>
+		<field name="typeIdD">7</field>
+		<field name="multiplier">0.50</field>
+	</row>
+	<row>
+		<field name="id">27</field>
+		<field name="typeIdA">9</field>
+		<field name="typeIdD">9</field>
+		<field name="multiplier">1.00</field>
+	</row>
+	<row>
+		<field name="id">28</field>
+		<field name="typeIdA">9</field>
+		<field name="typeIdD">10</field>
+		<field name="multiplier">0.50</field>
+	</row>
+	<row>
+		<field name="id">29</field>
+		<field name="typeIdA">9</field>
+		<field name="typeIdD">11</field>
+		<field name="multiplier">0.50</field>
+	</row>
+	<row>
+		<field name="id">30</field>
+		<field name="typeIdA">10</field>
+		<field name="typeIdD">1</field>
+		<field name="multiplier">1.00</field>
+	</row>
+	<row>
+		<field name="id">31</field>
+		<field name="typeIdA">10</field>
+		<field name="typeIdD">3</field>
+		<field name="multiplier">2.00</field>
+	</row>
+	<row>
+		<field name="id">32</field>
+		<field name="typeIdA">10</field>
+		<field name="typeIdD">6</field>
+		<field name="multiplier">0.50</field>
+	</row>
+	<row>
+		<field name="id">33</field>
+		<field name="typeIdA">10</field>
+		<field name="typeIdD">7</field>
+		<field name="multiplier">1.00</field>
+	</row>
+	<row>
+		<field name="id">34</field>
+		<field name="typeIdA">10</field>
+		<field name="typeIdD">9</field>
+		<field name="multiplier">2.00</field>
+	</row>
+	<row>
+		<field name="id">35</field>
+		<field name="typeIdA">10</field>
+		<field name="typeIdD">10</field>
+		<field name="multiplier">1.00</field>
+	</row>
+	<row>
+		<field name="id">36</field>
+		<field name="typeIdA">10</field>
+		<field name="typeIdD">11</field>
+		<field name="multiplier">2.00</field>
+	</row>
+	<row>
+		<field name="id">37</field>
+		<field name="typeIdA">11</field>
+		<field name="typeIdD">1</field>
+		<field name="multiplier">1.00</field>
+	</row>
+	<row>
+		<field name="id">38</field>
+		<field name="typeIdA">11</field>
+		<field name="typeIdD">3</field>
+		<field name="multiplier">2.00</field>
+	</row>
+	<row>
+		<field name="id">39</field>
+		<field name="typeIdA">11</field>
+		<field name="typeIdD">6</field>
+		<field name="multiplier">1.00</field>
+	</row>
+	<row>
+		<field name="id">40</field>
+		<field name="typeIdA">11</field>
+		<field name="typeIdD">7</field>
+		<field name="multiplier">1.00</field>
+	</row>
+	<row>
+		<field name="id">41</field>
+		<field name="typeIdA">11</field>
+		<field name="typeIdD">9</field>
+		<field name="multiplier">0.50</field>
+	</row>
+	<row>
+		<field name="id">42</field>
+		<field name="typeIdA">11</field>
+		<field name="typeIdD">10</field>
+		<field name="multiplier">0.50</field>
+	</row>
+	<row>
+		<field name="id">43</field>
+		<field name="typeIdA">11</field>
+		<field name="typeIdD">11</field>
+		<field name="multiplier">1.00</field>
+	</row>
+	<row>
+		<field name="id">44</field>
+		<field name="typeIdA">3</field>
+		<field name="typeIdD">1</field>
+		<field name="multiplier">1.00</field>
+	</row>
+</table_data>

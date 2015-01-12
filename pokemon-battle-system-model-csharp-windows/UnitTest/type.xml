@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<table_data name="type">
+	<row>
+		<field name="id">11</field>
+		<field name="name">Bug</field>
+	</row>
+	<row>
+		<field name="id">13</field>
+		<field name="name">Dragon</field>
+	</row>
+	<row>
+		<field name="id">6</field>
+		<field name="name">Electric</field>
+	</row>
+	<row>
+		<field name="id">9</field>
+		<field name="name">Fighting</field>
+	</row>
+	<row>
+		<field name="id">2</field>
+		<field name="name">Fire</field>
+	</row>
+	<row>
+		<field name="id">10</field>
+		<field name="name">Flying</field>
+	</row>
+	<row>
+		<field name="id">12</field>
+		<field name="name">Ghost</field>
+	</row>
+	<row>
+		<field name="id">3</field>
+		<field name="name">Grass</field>
+	</row>
+	<row>
+		<field name="id">8</field>
+		<field name="name">Ground</field>
+	</row>
+	<row>
+		<field name="id">4</field>
+		<field name="name">Ice</field>
+	</row>
+	<row>
+		<field name="id">1</field>
+		<field name="name">Normal</field>
+	</row>
+	<row>
+		<field name="id">0</field>
+		<field name="name">Null</field>
+	</row>
+	<row>
+		<field name="id">7</field>
+		<field name="name">Poison</field>
+	</row>
+	<row>
+		<field name="id">15</field>
+		<field name="name">Psychic</field>
+	</row>
+	<row>
+		<field name="id">14</field>
+		<field name="name">Rock</field>
+	</row>
+	<row>
+		<field name="id">5</field>
+		<field name="name">Water</field>
+	</row>
+</table_data>

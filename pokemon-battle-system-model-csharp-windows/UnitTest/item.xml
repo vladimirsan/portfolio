@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<table_data name="item">
+	<row>
+		<field name="id">1</field>
+		<field name="name">Potion</field>
+		<field name="description">Heals your Pokemon by 20 HP</field>
+	</row>
+	<row>
+		<field name="id">2</field>
+		<field name="name">Super Potion</field>
+		<field name="description">Heals your Pokemon by 50 HP</field>
+	</row>
+	<row>
+		<field name="id">3</field>
+		<field name="name">Hyper Potion</field>
+		<field name="description">Heals your pokemon by 200 HP</field>
+	</row>
+	<row>
+		<field name="id">4</field>
+		<field name="name">Revive</field>
+		<field name="description">Cures a KO'd Pokemon by half its HP</field>
+	</row>
+	<row>
+		<field name="id">5</field>
+		<field name="name">Antidote</field>
+		<field name="description">Cures your Pokemon of poison</field>
+	</row>
+</table_data>

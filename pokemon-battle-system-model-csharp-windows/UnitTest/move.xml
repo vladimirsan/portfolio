@@ -1,0 +1,444 @@
+<?xml version="1.0"?>
+	<table_data name="move">
+	<row>
+		<field name="id">1</field>
+		<field name="name">Tackle</field>
+		<field name="basePower">35</field>
+		<field name="accuracy">95</field>
+		<field name="pp">56</field>
+		<field name="typeId">1</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">2</field>
+		<field name="name">String Shot</field>
+		<field name="basePower">-1</field>
+		<field name="accuracy">95</field>
+		<field name="pp">61</field>
+		<field name="typeId">11</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">3</field>
+		<field name="name">Thundershock</field>
+		<field name="basePower">35</field>
+		<field name="accuracy">100</field>
+		<field name="pp">48</field>
+		<field name="typeId">6</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">4</field>
+		<field name="name">Growl</field>
+		<field name="basePower">-1</field>
+		<field name="accuracy">100</field>
+		<field name="pp">61</field>
+		<field name="typeId">1</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">5</field>
+		<field name="name">Tail Whip</field>
+		<field name="basePower">-1</field>
+		<field name="accuracy">100</field>
+		<field name="pp">61</field>
+		<field name="typeId">1</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">6</field>
+		<field name="name">Harden</field>
+		<field name="basePower">-1</field>
+		<field name="accuracy">100</field>
+		<field name="pp">61</field>
+		<field name="typeId">1</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">7</field>
+		<field name="name">Poison Sting</field>
+		<field name="basePower">15</field>
+		<field name="accuracy">100</field>
+		<field name="pp">56</field>
+		<field name="typeId">7</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">8</field>
+		<field name="name">Fury Attack</field>
+		<field name="basePower">15</field>
+		<field name="accuracy">85</field>
+		<field name="pp">24</field>
+		<field name="typeId">1</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">9</field>
+		<field name="name">Focus Energy</field>
+		<field name="basePower">-1</field>
+		<field name="accuracy">100</field>
+		<field name="pp">48</field>
+		<field name="typeId">1</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">10</field>
+		<field name="name">Twin Needle</field>
+		<field name="basePower">25</field>
+		<field name="accuracy">100</field>
+		<field name="pp">32</field>
+		<field name="typeId">11</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">11</field>
+		<field name="name">Rage</field>
+		<field name="basePower">20</field>
+		<field name="accuracy">100</field>
+		<field name="pp">32</field>
+		<field name="typeId">1</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">12</field>
+		<field name="name">Pin Missile</field>
+		<field name="basePower">14</field>
+		<field name="accuracy">85</field>
+		<field name="pp">32</field>
+		<field name="typeId">11</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">13</field>
+		<field name="name">Sand-Attack</field>
+		<field name="basePower">-1</field>
+		<field name="accuracy">100</field>
+		<field name="pp">24</field>
+		<field name="typeId">1</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">14</field>
+		<field name="name">Gust</field>
+		<field name="basePower">40</field>
+		<field name="accuracy">100</field>
+		<field name="pp">56</field>
+		<field name="typeId">1</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">15</field>
+		<field name="name">Quick Attack</field>
+		<field name="basePower">40</field>
+		<field name="accuracy">100</field>
+		<field name="pp">48</field>
+		<field name="typeId">1</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">16</field>
+		<field name="name">Whirlwind</field>
+		<field name="basePower">-1</field>
+		<field name="accuracy">100</field>
+		<field name="pp">32</field>
+		<field name="typeId">1</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">17</field>
+		<field name="name">Wing Attack</field>
+		<field name="basePower">35</field>
+		<field name="accuracy">100</field>
+		<field name="pp">56</field>
+		<field name="typeId">10</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">18</field>
+		<field name="name">Agility</field>
+		<field name="basePower">-1</field>
+		<field name="accuracy">100</field>
+		<field name="pp">48</field>
+		<field name="typeId">15</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">19</field>
+		<field name="name">Mirror Move</field>
+		<field name="basePower">-1</field>
+		<field name="accuracy">100</field>
+		<field name="pp">32</field>
+		<field name="typeId">10</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">20</field>
+		<field name="name">Hyper Fang</field>
+		<field name="basePower">80</field>
+		<field name="accuracy">90</field>
+		<field name="pp">24</field>
+		<field name="typeId">1</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">21</field>
+		<field name="name">Super Fang</field>
+		<field name="basePower">-1</field>
+		<field name="accuracy">90</field>
+		<field name="pp">16</field>
+		<field name="typeId">1</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">22</field>
+		<field name="name">Peck</field>
+		<field name="basePower">35</field>
+		<field name="accuracy">100</field>
+		<field name="pp">56</field>
+		<field name="typeId">10</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">23</field>
+		<field name="name">Leer</field>
+		<field name="basePower">-1</field>
+		<field name="accuracy">100</field>
+		<field name="pp">48</field>
+		<field name="typeId">1</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">24</field>
+		<field name="name">Drill Peck</field>
+		<field name="basePower">80</field>
+		<field name="accuracy">100</field>
+		<field name="pp">32</field>
+		<field name="typeId">10</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">25</field>
+		<field name="name">Wrap</field>
+		<field name="basePower">15</field>
+		<field name="accuracy">85</field>
+		<field name="pp">24</field>
+		<field name="typeId">1</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">26</field>
+		<field name="name">Bite</field>
+		<field name="basePower">60</field>
+		<field name="accuracy">100</field>
+		<field name="pp">40</field>
+		<field name="typeId">1</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">27</field>
+		<field name="name">Glare</field>
+		<field name="basePower">-1</field>
+		<field name="accuracy">75</field>
+		<field name="pp">48</field>
+		<field name="typeId">1</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">28</field>
+		<field name="name">Screech</field>
+		<field name="basePower">-1</field>
+		<field name="accuracy">85</field>
+		<field name="pp">61</field>
+		<field name="typeId">1</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">29</field>
+		<field name="name">Acid</field>
+		<field name="basePower">40</field>
+		<field name="accuracy">100</field>
+		<field name="pp">32</field>
+		<field name="typeId">7</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">30</field>
+		<field name="name">Haze</field>
+		<field name="basePower">-1</field>
+		<field name="accuracy">-1</field>
+		<field name="pp">48</field>
+		<field name="typeId">4</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">31</field>
+		<field name="name">Thunder Wave</field>
+		<field name="basePower">-1</field>
+		<field name="accuracy">100</field>
+		<field name="pp">32</field>
+		<field name="typeId">6</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">32</field>
+		<field name="name">Double Team</field>
+		<field name="basePower">-1</field>
+		<field name="accuracy">-1</field>
+		<field name="pp">24</field>
+		<field name="typeId">1</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">33</field>
+		<field name="name">Slam</field>
+		<field name="basePower">80</field>
+		<field name="accuracy">75</field>
+		<field name="pp">32</field>
+		<field name="typeId">1</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">34</field>
+		<field name="name">Thunderbolt</field>
+		<field name="basePower">95</field>
+		<field name="accuracy">100</field>
+		<field name="pp">24</field>
+		<field name="typeId">6</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">35</field>
+		<field name="name">Thunder</field>
+		<field name="basePower">120</field>
+		<field name="accuracy">70</field>
+		<field name="pp">16</field>
+		<field name="typeId">6</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">36</field>
+		<field name="name">Light Screen</field>
+		<field name="basePower">-1</field>
+		<field name="accuracy">-1</field>
+		<field name="pp">48</field>
+		<field name="typeId">15</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">37</field>
+		<field name="name">Scratch</field>
+		<field name="basePower">40</field>
+		<field name="accuracy">100</field>
+		<field name="pp">48</field>
+		<field name="typeId">1</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">38</field>
+		<field name="name">Pay Day</field>
+		<field name="basePower">40</field>
+		<field name="accuracy">100</field>
+		<field name="pp">32</field>
+		<field name="typeId">1</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">39</field>
+		<field name="name">Fury Swipes</field>
+		<field name="basePower">18</field>
+		<field name="accuracy">80</field>
+		<field name="pp">48</field>
+		<field name="typeId">1</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">40</field>
+		<field name="name">Slash</field>
+		<field name="basePower">70</field>
+		<field name="accuracy">100</field>
+		<field name="pp">24</field>
+		<field name="typeId">1</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">50</field>
+		<field name="name">Low Kick</field>
+		<field name="basePower">50</field>
+		<field name="accuracy">90</field>
+		<field name="pp">32</field>
+		<field name="typeId">9</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">51</field>
+		<field name="name">Karate Chop</field>
+		<field name="basePower">50</field>
+		<field name="accuracy">100</field>
+		<field name="pp">40</field>
+		<field name="typeId">1</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">53</field>
+		<field name="name">Seismic Toss</field>
+		<field name="basePower">-1</field>
+		<field name="accuracy">100</field>
+		<field name="pp">32</field>
+		<field name="typeId">9</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">54</field>
+		<field name="name">Poison Gas</field>
+		<field name="basePower">-1</field>
+		<field name="accuracy">55</field>
+		<field name="pp">61</field>
+		<field name="typeId">7</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">55</field>
+		<field name="name">Smog</field>
+		<field name="basePower">20</field>
+		<field name="accuracy">70</field>
+		<field name="pp">32</field>
+		<field name="typeId">7</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">56</field>
+		<field name="name">Self Destruct</field>
+		<field name="basePower">130</field>
+		<field name="accuracy">100</field>
+		<field name="pp">8</field>
+		<field name="typeId">1</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">57</field>
+		<field name="name">Sludge</field>
+		<field name="basePower">65</field>
+		<field name="accuracy">100</field>
+		<field name="pp">32</field>
+		<field name="typeId">7</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">58</field>
+		<field name="name">Smoke Screen</field>
+		<field name="basePower">-1</field>
+		<field name="accuracy">100</field>
+		<field name="pp">32</field>
+		<field name="typeId">1</field>
+		<field name="description">aoeu</field>
+	</row>
+	<row>
+		<field name="id">59</field>
+		<field name="name">Explosion</field>
+		<field name="basePower">170</field>
+		<field name="accuracy">100</field>
+		<field name="pp">8</field>
+		<field name="typeId">1</field>
+		<field name="description">aoeu</field>
+	</row>
+	</table_data>

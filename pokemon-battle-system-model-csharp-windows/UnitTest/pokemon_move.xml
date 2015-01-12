@@ -1,0 +1,423 @@
+<?xml version="1.0"?>
+<table_data name="pokemon_move">
+	<row>
+		<field name="pokemonId">10</field>
+		<field name="moveId">1</field>
+		<field name="level">1</field>
+	</row>
+	<row>
+		<field name="pokemonId">10</field>
+		<field name="moveId">2</field>
+		<field name="level">1</field>
+	</row>
+	<row>
+		<field name="pokemonId">11</field>
+		<field name="moveId">6</field>
+		<field name="level">7</field>
+	</row>
+	<row>
+		<field name="pokemonId">13</field>
+		<field name="moveId">2</field>
+		<field name="level">1</field>
+	</row>
+	<row>
+		<field name="pokemonId">13</field>
+		<field name="moveId">7</field>
+		<field name="level">1</field>
+	</row>
+	<row>
+		<field name="pokemonId">14</field>
+		<field name="moveId">1</field>
+		<field name="level">1</field>
+	</row>
+	<row>
+		<field name="pokemonId">14</field>
+		<field name="moveId">6</field>
+		<field name="level">7</field>
+	</row>
+	<row>
+		<field name="pokemonId">15</field>
+		<field name="moveId">8</field>
+		<field name="level">10</field>
+	</row>
+	<row>
+		<field name="pokemonId">15</field>
+		<field name="moveId">9</field>
+		<field name="level">15</field>
+	</row>
+	<row>
+		<field name="pokemonId">15</field>
+		<field name="moveId">10</field>
+		<field name="level">20</field>
+	</row>
+	<row>
+		<field name="pokemonId">15</field>
+		<field name="moveId">11</field>
+		<field name="level">25</field>
+	</row>
+	<row>
+		<field name="pokemonId">15</field>
+		<field name="moveId">12</field>
+		<field name="level">35</field>
+	</row>
+	<row>
+		<field name="pokemonId">15</field>
+		<field name="moveId">18</field>
+		<field name="level">40</field>
+	</row>
+	<row>
+		<field name="pokemonId">16</field>
+		<field name="moveId">1</field>
+		<field name="level">1</field>
+	</row>
+	<row>
+		<field name="pokemonId">16</field>
+		<field name="moveId">13</field>
+		<field name="level">5</field>
+	</row>
+	<row>
+		<field name="pokemonId">16</field>
+		<field name="moveId">14</field>
+		<field name="level">9</field>
+	</row>
+	<row>
+		<field name="pokemonId">16</field>
+		<field name="moveId">15</field>
+		<field name="level">13</field>
+	</row>
+	<row>
+		<field name="pokemonId">16</field>
+		<field name="moveId">16</field>
+		<field name="level">19</field>
+	</row>
+	<row>
+		<field name="pokemonId">16</field>
+		<field name="moveId">17</field>
+		<field name="level">25</field>
+	</row>
+	<row>
+		<field name="pokemonId">16</field>
+		<field name="moveId">18</field>
+		<field name="level">39</field>
+	</row>
+	<row>
+		<field name="pokemonId">16</field>
+		<field name="moveId">19</field>
+		<field name="level">47</field>
+	</row>
+	<row>
+		<field name="pokemonId">17</field>
+		<field name="moveId">1</field>
+		<field name="level">1</field>
+	</row>
+	<row>
+		<field name="pokemonId">17</field>
+		<field name="moveId">13</field>
+		<field name="level">1</field>
+	</row>
+	<row>
+		<field name="pokemonId">17</field>
+		<field name="moveId">14</field>
+		<field name="level">1</field>
+	</row>
+	<row>
+		<field name="pokemonId">17</field>
+		<field name="moveId">15</field>
+		<field name="level">1</field>
+	</row>
+	<row>
+		<field name="pokemonId">17</field>
+		<field name="moveId">16</field>
+		<field name="level">20</field>
+	</row>
+	<row>
+		<field name="pokemonId">17</field>
+		<field name="moveId">17</field>
+		<field name="level">27</field>
+	</row>
+	<row>
+		<field name="pokemonId">17</field>
+		<field name="moveId">18</field>
+		<field name="level">43</field>
+	</row>
+	<row>
+		<field name="pokemonId">17</field>
+		<field name="moveId">19</field>
+		<field name="level">53</field>
+	</row>
+	<row>
+		<field name="pokemonId">19</field>
+		<field name="moveId">1</field>
+		<field name="level">1</field>
+	</row>
+	<row>
+		<field name="pokemonId">19</field>
+		<field name="moveId">5</field>
+		<field name="level">1</field>
+	</row>
+	<row>
+		<field name="pokemonId">19</field>
+		<field name="moveId">9</field>
+		<field name="level">20</field>
+	</row>
+	<row>
+		<field name="pokemonId">19</field>
+		<field name="moveId">15</field>
+		<field name="level">7</field>
+	</row>
+	<row>
+		<field name="pokemonId">19</field>
+		<field name="moveId">20</field>
+		<field name="level">13</field>
+	</row>
+	<row>
+		<field name="pokemonId">19</field>
+		<field name="moveId">21</field>
+		<field name="level">34</field>
+	</row>
+	<row>
+		<field name="pokemonId">21</field>
+		<field name="moveId">4</field>
+		<field name="level">1</field>
+	</row>
+	<row>
+		<field name="pokemonId">21</field>
+		<field name="moveId">8</field>
+		<field name="level">13</field>
+	</row>
+	<row>
+		<field name="pokemonId">21</field>
+		<field name="moveId">18</field>
+		<field name="level">43</field>
+	</row>
+	<row>
+		<field name="pokemonId">21</field>
+		<field name="moveId">19</field>
+		<field name="level">31</field>
+	</row>
+	<row>
+		<field name="pokemonId">21</field>
+		<field name="moveId">22</field>
+		<field name="level">1</field>
+	</row>
+	<row>
+		<field name="pokemonId">21</field>
+		<field name="moveId">23</field>
+		<field name="level">7</field>
+	</row>
+	<row>
+		<field name="pokemonId">21</field>
+		<field name="moveId">24</field>
+		<field name="level">37</field>
+	</row>
+	<row>
+		<field name="pokemonId">23</field>
+		<field name="moveId">7</field>
+		<field name="level">8</field>
+	</row>
+	<row>
+		<field name="pokemonId">23</field>
+		<field name="moveId">23</field>
+		<field name="level">1</field>
+	</row>
+	<row>
+		<field name="pokemonId">23</field>
+		<field name="moveId">25</field>
+		<field name="level">1</field>
+	</row>
+	<row>
+		<field name="pokemonId">23</field>
+		<field name="moveId">26</field>
+		<field name="level">13</field>
+	</row>
+	<row>
+		<field name="pokemonId">23</field>
+		<field name="moveId">27</field>
+		<field name="level">20</field>
+	</row>
+	<row>
+		<field name="pokemonId">23</field>
+		<field name="moveId">28</field>
+		<field name="level">25</field>
+	</row>
+	<row>
+		<field name="pokemonId">23</field>
+		<field name="moveId">29</field>
+		<field name="level">32</field>
+	</row>
+	<row>
+		<field name="pokemonId">23</field>
+		<field name="moveId">30</field>
+		<field name="level">44</field>
+	</row>
+	<row>
+		<field name="pokemonId">25</field>
+		<field name="moveId">3</field>
+		<field name="level">1</field>
+	</row>
+	<row>
+		<field name="pokemonId">25</field>
+		<field name="moveId">4</field>
+		<field name="level">1</field>
+	</row>
+	<row>
+		<field name="pokemonId">25</field>
+		<field name="moveId">5</field>
+		<field name="level">6</field>
+	</row>
+	<row>
+		<field name="pokemonId">25</field>
+		<field name="moveId">15</field>
+		<field name="level">11</field>
+	</row>
+	<row>
+		<field name="pokemonId">25</field>
+		<field name="moveId">18</field>
+		<field name="level">33</field>
+	</row>
+	<row>
+		<field name="pokemonId">25</field>
+		<field name="moveId">31</field>
+		<field name="level">8</field>
+	</row>
+	<row>
+		<field name="pokemonId">25</field>
+		<field name="moveId">32</field>
+		<field name="level">15</field>
+	</row>
+	<row>
+		<field name="pokemonId">25</field>
+		<field name="moveId">33</field>
+		<field name="level">20</field>
+	</row>
+	<row>
+		<field name="pokemonId">25</field>
+		<field name="moveId">34</field>
+		<field name="level">26</field>
+	</row>
+	<row>
+		<field name="pokemonId">25</field>
+		<field name="moveId">35</field>
+		<field name="level">41</field>
+	</row>
+	<row>
+		<field name="pokemonId">25</field>
+		<field name="moveId">36</field>
+		<field name="level">50</field>
+	</row>
+	<row>
+		<field name="pokemonId">52</field>
+		<field name="moveId">4</field>
+		<field name="level">1</field>
+	</row>
+	<row>
+		<field name="pokemonId">52</field>
+		<field name="moveId">26</field>
+		<field name="level">10</field>
+	</row>
+	<row>
+		<field name="pokemonId">52</field>
+		<field name="moveId">28</field>
+		<field name="level">31</field>
+	</row>
+	<row>
+		<field name="pokemonId">52</field>
+		<field name="moveId">37</field>
+		<field name="level">1</field>
+	</row>
+	<row>
+		<field name="pokemonId">52</field>
+		<field name="moveId">38</field>
+		<field name="level">18</field>
+	</row>
+	<row>
+		<field name="pokemonId">52</field>
+		<field name="moveId">39</field>
+		<field name="level">36</field>
+	</row>
+	<row>
+		<field name="pokemonId">52</field>
+		<field name="moveId">40</field>
+		<field name="level">40</field>
+	</row>
+	<row>
+		<field name="pokemonId">56</field>
+		<field name="moveId">9</field>
+		<field name="level">21</field>
+	</row>
+	<row>
+		<field name="pokemonId">56</field>
+		<field name="moveId">23</field>
+		<field name="level">1</field>
+	</row>
+	<row>
+		<field name="pokemonId">56</field>
+		<field name="moveId">28</field>
+		<field name="level">45</field>
+	</row>
+	<row>
+		<field name="pokemonId">56</field>
+		<field name="moveId">37</field>
+		<field name="level">1</field>
+	</row>
+	<row>
+		<field name="pokemonId">56</field>
+		<field name="moveId">39</field>
+		<field name="level">16</field>
+	</row>
+	<row>
+		<field name="pokemonId">56</field>
+		<field name="moveId">50</field>
+		<field name="level">6</field>
+	</row>
+	<row>
+		<field name="pokemonId">56</field>
+		<field name="moveId">51</field>
+		<field name="level">11</field>
+	</row>
+	<row>
+		<field name="pokemonId">56</field>
+		<field name="moveId">53</field>
+		<field name="level">26</field>
+	</row>
+	<row>
+		<field name="pokemonId">109</field>
+		<field name="moveId">1</field>
+		<field name="level">1</field>
+	</row>
+	<row>
+		<field name="pokemonId">109</field>
+		<field name="moveId">30</field>
+		<field name="level">33</field>
+	</row>
+	<row>
+		<field name="pokemonId">109</field>
+		<field name="moveId">54</field>
+		<field name="level">1</field>
+	</row>
+	<row>
+		<field name="pokemonId">109</field>
+		<field name="moveId">55</field>
+		<field name="level">9</field>
+	</row>
+	<row>
+		<field name="pokemonId">109</field>
+		<field name="moveId">56</field>
+		<field name="level">17</field>
+	</row>
+	<row>
+		<field name="pokemonId">109</field>
+		<field name="moveId">57</field>
+		<field name="level">21</field>
+	</row>
+	<row>
+		<field name="pokemonId">109</field>
+		<field name="moveId">58</field>
+		<field name="level">25</field>
+	</row>
+	<row>
+		<field name="pokemonId">109</field>
+		<field name="moveId">59</field>
+		<field name="level">41</field>
+	</row>
+</table_data>

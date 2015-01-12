@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="c:\git\FigaroUnity_1\FigaroLib\Kernel\Debug\fAssert.cs">
+    <Files>
+      <File FileName="FigaroLib\RPG\Data\DataSystem.cs" Line="109" Column="5" />
+      <File FileName="c:\git\FigaroUnity_1\FigaroLib\Kernel\Debug\fAssert.cs" Line="13" Column="85" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
